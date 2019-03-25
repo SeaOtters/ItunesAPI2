@@ -1,0 +1,9 @@
+body {
+    background-color: lightcyan;
+    color: black;
+    font-family: "Comic Sans MS";
+}
+
+#header {
+    font-size: 25px
+}
